@@ -1,8 +1,8 @@
-#Sentiment analysis application for restaurant reviews
+# Sentiment analysis application for restaurant reviews
 
 This project is part of the *Case study no. 1 (ref. E2):  Artificial Intelligence application assessment* for the Data Science and Artificial Intelligence professional training.
 
-##Installation
+## Installation
 
 Clone this repo `git clone https://github.com/k13var/cp1.git`
 
@@ -10,7 +10,7 @@ Install the dependencies `pip install -r requirements.txt`
 
 The project was made with python 3.8.5
 
-##Run the FastAPI application
+## Run the FastAPI application
 
 1. Open a terminal at root folder and type `uvicorn app:app` to run the live server
 
